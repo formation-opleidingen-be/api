@@ -10,7 +10,7 @@ insert_training ( login, password, json_attributes )
 
 update_training ( login, password, json_attributes )
 
-delete_training ( login, password, json_attributes );
+delete_training ( login, password, json_attributes )
 
 get_domains ( language )<br>
 language: 'fr' or 'nl'
