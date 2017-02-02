@@ -1,4 +1,5 @@
-SOAP API
+<h1>formation.be / opleidingen.be : SOAP API</h1>
+
 
 location: http://formation.be/api/
 <br>
