@@ -20,3 +20,8 @@ get_domains ( language )<br>
 <br>
 <b>Return:</b><br>
 Mixed / JSON array
+<br>
+<br>
+<br>
+<b>How to find my center id:</b><br>
+<img src="how-to-find-my-center-id.jpg" />
