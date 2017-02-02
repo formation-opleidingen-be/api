@@ -14,9 +14,9 @@ update_training ( login, password, json_attributes )
 delete_training ( login, password, json_attributes )
 
 get_domains ( language )<br>
-language: 'fr' or 'nl'
+<i>language: 'fr' or 'nl'</i>
 <br>
 <br>
 <br>
-<b>Return:</b>
+<b>Return:</b><br>
 Mixed / JSON array
